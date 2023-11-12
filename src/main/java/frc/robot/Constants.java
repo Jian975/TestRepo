@@ -31,7 +31,7 @@ public final class Constants
     public static class Multipliers {
 
         public static final double TURN_MULTIPLIER = 0.6;
-        public static final double SPEED_MULTIPLIER = 0.6;
+        public static final double SPEED_MULTIPLIER = 0.4;
     }
     public static class OperatorConstants
     {
